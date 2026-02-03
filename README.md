@@ -2,6 +2,10 @@
 
 ORFS-Research originates from [the OpenROAD Project](https://theopenroadproject.org/) and serves as a platform for developing and sharing next-generation physical design engines. It is designed to act as an open and collaborative innovation sandbox, complementing the production-quality [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) and [OpenROAD-flow-scripts](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts) repositories.
 
+## Quick Start
+To install the core flow infrastructure, follow the detailed instructions provided in the official repository:
+
+> **[OpenROAD-flow-scripts Installation Guide](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts)**
 
 ## Missions
 OpenROAD-Research and ORFS-Research are envisioned as foundational platforms to accelerate collaboration, preserve algorithmic diversity and drive innovation in physical design. Their core missions are to:
@@ -28,8 +32,8 @@ We anticipate significant contributions from the global EDA community, including
 
 
 ## Updates Compared to OpenROAD-flow-scripts
-- **[Pin3DFlow](https://github.com/ieee-ceda-datc/ORFS-Research/tree/main/flow-Pin3D)**: scripts and materials for enabling 3D physical design flows using OpenROAD-Research platform.
-- **[ORFS-Agent](https://github.com/ieee-ceda-datc/ORFS-Research/tree/main/flow-Agent)**: an LLM-based iterative optimization agent for automating parameter tuning in ORFS-Research.
+- **[Pin3DFlow](https://github.com/ieee-ceda-datc/ORFS-Research/tree/master/flow-Pin3D)**: scripts and materials for enabling 3D physical design flows using OpenROAD-Research platform.
+- **[ORFS-Agent](https://github.com/ieee-ceda-datc/ORFS-Research/tree/master/flow-Agent)**: an LLM-based iterative optimization agent for automating parameter tuning in ORFS-Research.
   
 
 
